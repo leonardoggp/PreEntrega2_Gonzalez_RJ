@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "name": "Samsung Galaxy A04 64gb Negro",
+        "price": "55000",
+        "stock": "10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_738081-MLA52444225522_112022-F.webp",
+        "categoria": "cells",
+        "description": "64gb de capacidad-color negro-liberado-garantia 6 meses "
+    },
+    {
+        "id": "2",
+        "name": "Samsung Galaxy A14 128gb 4gb Ram Negro",
+        "price": "75000",
+        "stock": "10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_789966-MLU54969343009_042023-O.webp",
+        "categoria": "cells",
+        "description": "128gb de capacidad-4gb memoria-color negro-liberado-garantia 6 meses "
+    },
+    {
+        "id": "3",
+        "name": "Samsung Galaxy A54 128gb 8gb Ram Awesome Graphite",
+        "price": "250000",
+        "stock": "10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_883546-MLU69556143824_052023-O.webp",
+        "categoria": "cells",
+        "description": "128gb de capacidad-colores varios-liberado-garantia 6 meses "
+    },
+    {
+        "id": "4",
+        "name": "Moto G32 128 GB plateado 4 GB RAM",
+        "price": "65000",
+        "stock": "10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_787601-MLA52773800407_122022-F.webp",
+        "categoria": "cells",
+        "description": "128gb de capacidad-4gb ram-color plateado-liberado-garantia 6 meses "
+    },
+    {
+        "id": "5",
+        "name": "Moto G23 128 GB steel blue 4 GB RAM",
+        "price": "75000",
+        "stock": "10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_907305-MLU69805932292_062023-F.webp",
+        "categoria": "cells",
+        "description": "128gb de capacidad-color azul-4gb ram-liberado-garantia 6 meses "   
+    },
+    {
+        "id": "6",
+        "name": "Apple iPhone 13 Pro Max (128 GB)",
+        "price": "1150000",
+        "stock": "10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_912054-MLA53354557227_012023-F.webp",
+        "categoria": "cells" ,
+        "description": "128gb de capacidad-color verde-liberado-garantia 6 meses "  
+    },
+    {
+        "id": "7",
+        "name": "Tablet Samsung Galaxy Tab A A7 Lite SM-T220",
+        "price": "480000",
+        "stock": "10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_887245-MLU69762392805_062023-F.webp",
+        "categoria": "tablets" ,
+        "description": "16gb de capacidad-color plateada-3gb ram-pantalla 8.7-liberado-garantia 6 meses "  
+    },
+    {
+        "id": "8",
+        "name": "Tablet Samsung Galaxy Tab A A7 Lite SM-T220",
+        "price": "60000",
+        "stock": "10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_887245-MLU69762392805_062023-F.webp",
+        "categoria": "tablets" ,
+        "description": "32gb de capacidad-color plateada-3gb ram-pantalla 8.7-liberado-garantia 6 meses "  
+    },
+    {
+        "id": "9",
+        "name": "iPad Apple 10th generation 2022 A2696",
+        "price": "260000",
+        "stock": "10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_803992-MLA52988770428_122022-F.webp",
+        "categoria": "tablets" ,
+        "description": "64gb de capacidad-color plateada-3gb ram-pantalla 10.9-liberado-garantia 6 meses "  
+    },
+    {
+        "id": "10",
+        "name": "iPad Apple 8th generation 2022 A2453",
+        "price": "160000",
+        "stock": "10",
+        "image": "https://http2.mlstatic.com/D_NQ_NP_2X_803992-MLA52988770428_122022-F.webp",
+        "categoria": "tablets" ,
+        "description": "64gb de capacidad-color plateada-2gb ram-pantalla 10.9-liberado-garantia 6 meses "  
+    }
+]
